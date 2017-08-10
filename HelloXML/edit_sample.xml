@@ -1,0 +1,10 @@
+<window width="1920">
+	<title color="red" font="large">sample</title>
+	<buttonbox id="14.0" idid="0.0">
+		<button>OK</button>
+	</buttonbox>
+	<title color="blue" font="small">sample</title>
+	<buttonbox id="14.0" idid="0.0">
+		<button>Cancel</button>
+	</buttonbox>
+</window>
